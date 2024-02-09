@@ -1,0 +1,30 @@
+Software Automation Testing Project Using Katalon Technology
+|
+|-- Project Overview
+|   |-- Automate testing process of Amazon website
+|
+|-- Business Problem
+|   |-- Manual testing is time-consuming and error-prone
+|
+|-- Business Impact
+|   |-- Increased efficiency
+|   |-- Reduced testing costs
+|   |-- Improved software quality
+|   |-- Faster time-to-market
+|   |-- Enhanced customer satisfaction
+|
+|-- Project Flow
+|   |-- User interaction
+|   |-- Login credentials validation
+|   |-- Navigation to Amazon homepage
+|   |-- Item selection and search
+|   |-- Test case preparation and execution
+|   |-- Integration with Git and Jenkins
+|   |-- Cross-browser testing using TestCloud
+|   |-- Test report generation and analysis
+|   |-- Email notifications for test reports
+|
+|-- Conclusion
+    |-- Streamlined testing process
+    |-- Enhanced efficiency and reliability
+    |-- Improved customer satisfaction
